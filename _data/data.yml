@@ -97,11 +97,11 @@ projects:
     assignments:
       - title: Mushroom Classifier
         link: "https://github.com/Graham-Broughton/Mushroom-Classifier"
-        details: "
+        details: |
             - Achieved a validation accuracy of 0.3 on long tailed data containing ~1400 species across 80 000 images with a deployable image classifier
             - Reduced epoch training time from an hour (6 hours on CPU) to 3 minutes by leveraging TPUs and TFRecords to increase throughput
-            *Tools*: Tensorflow/Keras, Pandas, Google Cloud Products, Amazon Web Services, Tensorboard, requests, flask, cv2, matplotlib, PostgreSQL"
-      - title: Kaggle TPS Imputation 
+            *Tools*: Tensorflow/Keras, Pandas, Google Cloud Products, Amazon Web Services, Tensorboard, requests, flask, cv2, matplotlib, PostgreSQL
+      - title: "Kaggle TPS: Imputation"
         link: "https://github.com/Graham-Broughton/Kaggle/tree/master/Imputation_062022"
         details: |
             - Reduced training time by ~2/3 by using various statistical analysis techniques to elucidate which features would benefit from machine learning
