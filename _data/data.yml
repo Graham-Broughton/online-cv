@@ -97,20 +97,27 @@ projects:
     assignments:
       - title: Mushroom Classifier
         link: "https://github.com/Graham-Broughton/Mushroom-Classifier"
-        tagline: |
+        tagline: "
             - Achieved a validation accuracy of 0.3 on long tailed data containing ~1400 species across 80 000 images with a deployable image classifier
             - Reduced epoch training time from an hour (6 hours on CPU) to 3 minutes by leveraging TPUs and TFRecords to increase throughput
-            Tools:  Tensorflow/Keras, Pandas, Google Cloud Products, Amazon Web Services, Tensorboard, requests, flask, cv2, matplotlib, PostgreSQL
+            Tools: Tensorflow/Keras, Pandas, Google Cloud Products, Amazon Web Services, Tensorboard, requests, flask, cv2, matplotlib, PostgreSQL"
 
       - title: Kaggle TPS: Imputation 
         link: "https://github.com/Graham-Broughton/Kaggle/tree/master/Imputation_062022"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: |
+            - Reduced training time by ~2/3 by using various statistical analysis techniques to elucidate which features would benefit from machine learning
+            - Condensed training time by ~1/3 and improved model to score in the top 13% by using 95% fewer nodes, skip connections and adding multiple heads
+            Tools: Pandas, Keras, TensorFlow, Scikit-Learn, matplotlib, seaborn, missingno, NumPy, YAML, Pickle, Google Colab
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Kaggle TPS: Clustering
+        link: "https://github.com/Graham-Broughton/Kaggle/tree/master/Clustering_072022"
+        tagline: |
+            - Achieved a top 15% score by implementing effective feature extraction following EDA and statistical modeling to obtain high confidence labels from an
+              ensemble of clustering models for pseudo-semi supervised learning of an ensemble of classifiers
+            - Improved the evaluation metric by 0.01 to score in the top 3% by designing a weighted soft voting ensemble of the best three submissions
+            Tools: Pandas, Scikit-Learn, seaborn, matplotlib, Google Colab, NumPy, plotly, Sk-Lego, YAML, Pickle, Optuna, SciPy, XGBoost, LightGBM, CUDA
 
-      - title: Atom
+      - title: Ride Share User Data Analysis 
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
