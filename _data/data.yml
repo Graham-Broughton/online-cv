@@ -52,7 +52,7 @@ career-profile:
     summary: |
         Freshly minted data scientist with hands-on experience in all the main facets with a particular interest in neural networks, big data and optimization. 
         Previous experience in high-end restaurants instilled a relentless work ethic, a penetrating eye for detail, and perfectionism bordering on OCD. Which
-        has led to ranking in the top 3 to 15 percent out of ~1000 competitors in Kaggle competitions just a few short months after graduating from Lighthouse
+        has led to ranking in the top 3% to 15% out of ~1000 competitors in Kaggle competitions just a few short months after graduating from Lighthouse
         Labs. Now looking to use this technical competence for quantitative analysis in the real world as a Junior Data Scientist.
 education:
     title: Education
@@ -97,10 +97,13 @@ projects:
     assignments:
       - title: Mushroom Classifier
         link: "https://github.com/Graham-Broughton/Mushroom-Classifier"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: |
+            - Achieved a validation accuracy of 0.3 on long tailed data containing ~1400 species across 80 000 images with a deployable image classifier
+            - Reduced epoch training time from an hour (6 hours on CPU) to 3 minutes by leveraging TPUs and TFRecords to increase throughput
+            Tools:  Tensorflow/Keras, Pandas, Google Cloud Products, Amazon Web Services, Tensorboard, requests, flask, cv2, matplotlib, PostgreSQL
 
-      - title: DevStudio
-        link: "#"
+      - title: Kaggle TPS: Imputation 
+        link: "https://github.com/Graham-Broughton/Kaggle/tree/master/Imputation_062022"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: Tempo
