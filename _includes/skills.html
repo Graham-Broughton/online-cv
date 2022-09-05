@@ -16,12 +16,10 @@
     <div class="item">
 
       <h3 class="level-title">{{ skill.name }}</h3>
-
-    {% if experience.details %}
-    <div class="details">
-      {{ experience.details | markdownify }}
-    </div><!--//details-->
-    {% endif %}
+      
+      {% if skill.tagline %}
+      - <span class="project-tagline">{{ skill.tagline }}</span>
+      {% endif %}
 
     </div><!--//item-->
     {% endfor %}
