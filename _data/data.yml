@@ -122,23 +122,18 @@ projects:
             **Tools**: Tableau, Google Cloud Products, Google Colab, Amazon Web Service CLI, Pandas, SQL
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: Programming Languages
-        level: 98%
+        tagline: "Python, SQL, NoSQL, R, linux"
 
       - name: Data Analysis
-        level: 98%
+        tagline: "regression, clustering, classifiers, time series, sentiment, natural language processing, deep learning, dimensionality reduction, statistics tests"
 
       - name: Data Visualization
-        level: 98%
+        tagline: "matplotlib, plotly, seaborn, Tableau, GGplot, cv2, Pillow"
 
       - name: Tools
-        level: 95%
+        tagline: "Git, Google Colab, Docker, AWS, GCP, Jupyter, PostgreSQL, NLTK, Pandas, NumPy, Sci-Py, Scikit-Learn"
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
