@@ -118,7 +118,7 @@ projects:
             Tools: Pandas, Scikit-Learn, seaborn, matplotlib, Google Colab, NumPy, plotly, Sk-Lego, YAML, Pickle, Optuna, SciPy, XGBoost, LightGBM, CUDA
 
       - title: Ride Share User Data Analysis 
-        link: "#"
+        link: "https://public.tableau.com/views/ridesharev2/Story2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
       - title: Delta
@@ -129,7 +129,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Programming Languages
         level: 98%
 
       - name: Javascript & jQuery
