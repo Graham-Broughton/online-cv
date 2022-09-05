@@ -61,35 +61,15 @@ education:
         university: Lighthouse Labs
         time: March 2022 - June 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
       - degree: Environmental Science
         university: Royal Roads University
         time: September 2020 - August 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
       - degree: BSc Microbiology and Immunology
         university: University of Victoria
         time: September 2015 - April 2018
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
 experiences:
     title: Experiences
     info:
@@ -99,14 +79,14 @@ experiences:
         details: |
             - Improved shelf stability by reducing Total Packaged Oxygen by~10-40% through optimizing the canning machine
             - Coordinated with other departments to schedule various jobs when safe and effective to do them
-            - Drafted an SOP for new equipment that quantitatively instead of qualitatively analyzed beer haze
+            - Drafted an SOP for new equipment which quantified beer haze instead of previous qualitative analysis
       - role: Chef de Tournant
         time: Q3 2017
         company: Clayoquot Wilderness Resort, Tofino, BC
         details: |
             - Responsible for organizing the team when working as saucier as it is the most important station (protein cookery)
             - Prioritized prep list to successfully finish everything in time for service while maintaining the high caliber required 
-            - Multitasked during service not just by cooking numerous item at once but also conversing with guests sitting at the open kitchen
+            - Carried conversation with guests seated at the kitchen bar whilst cooking busy dinner services at a high quality
 
 projects:
     title: Projects
