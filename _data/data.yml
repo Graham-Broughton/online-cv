@@ -125,7 +125,7 @@ skills:
     title: Skills
 
     toolset:
-      - name: Programming Languages
+      - name: Languages
         tagline: "Python, SQL, NoSQL, R, linux"
 
       - name: Data Analysis
