@@ -99,7 +99,7 @@ projects:
         link: "https://github.com/Graham-Broughton/Mushroom-Classifier"
         details: |
             - Achieved a validation accuracy of 0.3 on long tailed data containing ~1400 species across 80 000 images with a deployable image classifier
-            - Reduced epoch training time from an hour (6 hours on CPU) to 3 minutes by leveraging TPUs and TFRecords to increase throughput
+            - Reduced epoch training time from an hour (6 hours on CPU) to 3 minutes by leveraging TPUs and TFRecords to increase throughput <br>
             *Tools*: Tensorflow/Keras, Pandas, Google Cloud Products, Amazon Web Services, Tensorboard, requests, flask, cv2, matplotlib, PostgreSQL
       - title: "Kaggle TPS: Imputation"
         link: "https://github.com/Graham-Broughton/Kaggle/tree/master/Imputation_062022"
@@ -116,8 +116,10 @@ projects:
             *Tools*: Pandas, Scikit-Learn, seaborn, matplotlib, Google Colab, NumPy, plotly, Sk-Lego, YAML, Pickle, Optuna, SciPy, XGBoost, LightGBM, CUDA
       - title: Ride Share User Data Analysis 
         link: "https://public.tableau.com/views/ridesharev2/Story2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"
-        details: "- Analyzed key differences between membership groups pertaining to business requirements through extensive data visualization
-                  - Formed business decisions by translating the data-driven insights from the analysis"
+        details: |
+            - Analyzed key differences between membership groups pertaining to business requirements through extensive data visualization
+            - Formed business decisions by translating the data-driven insights from the analysis
+            Tools: Tableau, Google Cloud Products, Google Colab, Amazon Web Service CLI, Pandas, SQL
 
 skills:
     title: Skills &amp; Proficiency
