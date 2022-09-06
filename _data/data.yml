@@ -29,23 +29,17 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: # http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+#     interests:
+#       title: Interests
+#       info:
+#         - item: Cooking
+#           link:
 
-    interests:
-      title: Interests
-      info:
-        - item: Cooking
-          link:
+#         - item: Badminton
+#           link:
 
-        - item: Badminton
-          link:
-
-        - item: Making beer, cheese and bread
-          link:
+#         - item: Making beer, cheese and bread
+#           link:
 
 career-profile:
     title: Career Profile
@@ -59,15 +53,15 @@ education:
     info:
       - degree: Diploma, Data Science
         university: Lighthouse Labs
-        time: March 2022 - June 2022
+        time: 05/2022 - 06/2022
         details: |
       - degree: Environmental Science
         university: Royal Roads University
-        time: September 2020 - August 2021
+        time: 09/2020 - 08/2021
         details: |
       - degree: BSc Microbiology and Immunology
         university: University of Victoria
-        time: September 2015 - April 2018
+        time: 09/2015 - 04/2018
         details: |
 
 experiences:
