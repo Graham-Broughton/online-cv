@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -16,7 +16,7 @@ sidebar:
     phone: 250-880-8120
     timezone: Pacific
     citizenship: Canadian
-    # website: blog.webjeda.com #do not add http://
+    website: graham-broughton.github.io/online-cv/
     linkedin: g-broughton
     xing:
     github: Graham-Broughton
@@ -44,10 +44,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Freshly minted data scientist with hands-on experience in all the main facets with a particular interest in neural networks, big data and optimization. 
+        A freshly minted data scientist with hands-on experience in all the main facets of artificial intellegence with a particular interest in neural networks, big data and optimization. 
         Previous experience in high-end restaurants instilled a relentless work ethic, a penetrating eye for detail, and perfectionism bordering on OCD. Which
         has led to ranking in the top 3% to 15% out of ~1000 competitors in Kaggle competitions just a few short months after graduating from Lighthouse
-        Labs. Now looking to use this technical competence for quantitative analysis in the real world as a Junior Data Scientist.
+        Labs' Data Science Bootcamp. Now looking to use this technical competence for quantitative analysis in the real world as a Junior Data Scientist.
 education:
     title: Education
     info:
@@ -71,7 +71,7 @@ experiences:
         time: Q4 2018
         company: Lighthouse Brewing Company, Victoria, BC
         details: |
-            - Improved shelf stability by reducing Total Packaged Oxygen by~10-40% through optimizing the canning machine
+            - Improved shelf stability by reducing Total Packaged Oxygen by ~10-40% through optimizing the canning machine
             - Coordinated with other departments to schedule various jobs when safe and effective to do them
             - Drafted an SOP for new equipment which quantified beer haze instead of previous qualitative analysis
       - role: Chef de Tournant
@@ -120,14 +120,14 @@ skills:
 
     toolset:
       - name: Languages
-        tagline: "Python, SQL, NoSQL, R, linux"
+        tagline: "Python, SQL & NoSQL, R, bash"
 
       - name: Data Analysis
-        tagline: "regression, clustering, classifiers, time series, sentiment, natural language processing, deep learning, dimensionality reduction, statistics tests"
-
-      - name: Data Visualization
-        tagline: "matplotlib, plotly, seaborn, Tableau, GGplot, cv2, Pillow"
+        tagline: " natural language processing/NLP, deep learning, sequence models - transformers, RNNs, LSTMS, GRU, BERT; time series, sentiment analysis, dimensionality reduction"
 
       - name: Tools
-        tagline: "Git, Google Colab, Docker, AWS, GCP, Jupyter, PostgreSQL, NLTK, Pandas, NumPy, Sci-Py, Scikit-Learn"
+        tagline: "GCP, Azure, AWS, Git, Google Colab, Docker, Jupyter, PostgreSQL, TPUs"
+        
+      - name: Packages
+        tagline: "Tensorflow & Keras, Pandas, NumPy, Sci-Py, Scikit-Learn, NLTK, gensim, gym"
 
