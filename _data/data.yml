@@ -114,6 +114,12 @@ projects:
             - Analyzed key differences between membership groups pertaining to business requirements through extensive data visualization
             - Formed business decisions by translating the data-driven insights from the analysis<br>
             **Tools**: Tableau, Google Cloud Products, Google Colab, Amazon Web Service CLI, Pandas, SQL
+       - title: Trading Bot (in progress)
+         link: https://github.com/Graham-Broughton/finance
+         details: |
+            - end-to-end model from obtaining price as well as sentiment data to completing orders to the brokerage
+            - complete automation by running in GCP (not implemented yet)
+            **Tools**: Google Cloud Products, Pandas, SQL, Threading, Selenium, Beautiful Soup, gym
 
 skills:
     title: Skills
