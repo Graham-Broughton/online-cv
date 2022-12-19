@@ -44,10 +44,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        A freshly minted data scientist with hands-on experience in all the main facets of artificial intellegence with a particular interest in neural networks, big data and optimization. 
-        Previous experience in high-end restaurants instilled a relentless work ethic, a penetrating eye for detail, and perfectionism bordering on OCD. Which
-        has led to ranking in the top 3% to 15% out of ~1000 competitors in Kaggle competitions just a few short months after graduating from Lighthouse
-        Labs' Data Science Bootcamp. Now looking to use this technical competence for quantitative analysis in the real world as a Junior Data Scientist.
+        A freshly minted Data Scientist with experience in all the facets of Data Science focusing on neural networks, big data and a particular interest in optimization. 
+        Previous experience in high-end restaurants instilled a relentless work ethic, a penetrating eye for detail, and perfectionism bordering on OCD. These attributes
+        have led to him ranking in the top 3% to 15% out of ~1000 competitors in Kaggle competitions just a few short months after graduating from Lighthouse
+        Labs' Data Science Bootcamp. To help businesses maximize profits, he’s been learning how to reduce runtime via multiprocessing/threading, asynchronous operations, CPython and TPU processing. 
+        Paired with, data handling best practices, including SQL operations, and alternatives to Pandas (eg. Polars) he has sped up some of his programs by 120 fold. 
+        He is excited for this opportunity to apply his experience in a business setting as a Junior data Scientist.
+
+
 education:
     title: Education
     info:
