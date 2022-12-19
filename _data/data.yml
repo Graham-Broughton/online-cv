@@ -48,7 +48,7 @@ career-profile:
         Previous experience in high-end restaurants instilled a relentless work ethic, a penetrating eye for detail, and perfectionism bordering on OCD. These attributes
         have led to him ranking in the top 3% to 15% out of ~1000 competitors in Kaggle competitions just a few short months after graduating from Lighthouse
         Labs' Data Science Bootcamp. To help businesses maximize profits, he’s been learning how to reduce runtime via multiprocessing/threading, asynchronous operations, CPython and TPU processing. 
-        Paired with, data handling best practices, including SQL operations, and alternatives to Pandas (eg. Polars) he has sped up some of his programs by 120 fold. 
+        Paired with data handling best practices, including SQL operations, and alternatives to Pandas (eg. Polars) he has sped up some of his programs by 120 fold. 
         He is excited for this opportunity to apply his experience in a business setting as a Junior data Scientist.
 
 
@@ -126,14 +126,14 @@ skills:
 
     toolset:
       - name: Languages
-        tagline: "Python, SQL & NoSQL, R, bash"
+        tagline: "Python, SQL & NoSQL"
 
       - name: Data Analysis
-        tagline: " natural language processing/NLP, deep learning, sequence models - transformers, RNNs, LSTMS, GRU, BERT; time series, sentiment analysis, dimensionality reduction"
+        tagline: "Natural Language Processing (NLP), Deep Learning, Sentiment Analysis, Time Series, Sequence Models - Transformers, RNN, LSTM, GRU, BERT"
 
       - name: Tools
-        tagline: "GCP, Azure, AWS, Git, Google Colab, Docker, Jupyter, PostgreSQL, TPUs"
+        tagline: "GCP, Azure, AWS, Git, Google Colab, Docker, Jupyter, PostgreSQL, MongoDB, TPUs"
         
       - name: Packages
-        tagline: "Tensorflow & Keras, Pandas, NumPy, Sci-Py, Scikit-Learn, NLTK, gensim, gym"
+        tagline: "Tensorflow & Keras, Pandas, NumPy, Sci-Py, Scikit-Learn, NLTK, gensim"
 
