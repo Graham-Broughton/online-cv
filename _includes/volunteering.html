@@ -6,17 +6,23 @@
     {{ volunteering.title }}
   </h2>
 
-  <ul class="list-unstyled volunteering-list">
     {% for volunteer in volunteering.info %}
-
-      {% if volunteer.link %}
-      <li><a href="{{ volunteer.link }}">{{ volunteer.item }}</a></li>
-      {% else %}
-      <li>{{ volunteer.item }}</li>
-      {% endif %}
-
+    <div class="item">
+      <h4 class="degree">{{ graduation.item }}</h4>
+      <h5 class="meta">{{ graduation.details }}</h5>
+    </div><!--//item-->
     {% endfor %}
-  </ul>
+#  <ul class="list-unstyled volunteering-list">
+#    {% for volunteer in volunteering.info %}
+#
+#      {% if volunteer.link %}
+#      <li><a href="{{ volunteer.link }}">{{ volunteer.item }}</a></li>
+#      {% else %}
+#      <li>{{ volunteer.item }}</li>
+#      {% endif %}
+#
+#    {% endfor %}
+#  </ul>
 
 </div><!--//volunteering-->
 {% endif %}
