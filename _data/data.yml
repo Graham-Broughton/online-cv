@@ -28,18 +28,12 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: # http://www.africau.edu/images/default/sample.pdf
+    volunteering:
+      title: Volunteering
+      info:
+        - item: Deeplearning.ai/Coursera
+          details: Mentor for Deeplearning.ai Coursera course: Practical Data Science
 
-#     interests:
-#       title: Interests
-#       info:
-#         - item: Cooking
-#           link:
-
-#         - item: Badminton
-#           link:
-
-#         - item: Making beer, cheese and bread
-#           link:
 
 career-profile:
     title: Career Profile
