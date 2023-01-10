@@ -8,8 +8,9 @@
 
     {% for volunteer in volunteering.info %}
     <div class="item">
-      <h4 class="degree">{{ volunteer.item }}</h4>
-      <h5 class="meta">{{ volunteer.details }}</h5>
+      <h4 class="place">{{ volunteer.place }}</h4>
+      <h5 class="details">{{ volunteer.details }}</h5>
+      <div class="time">{{ volunteer.time }}</div>
     </div><!--//item-->
     {% endfor %}
 #  <ul class="list-unstyled volunteering-list">
