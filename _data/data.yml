@@ -31,8 +31,9 @@ sidebar:
     volunteering:
       title: Volunteering
       info:
-        - item: Deeplearning.ai/Coursera
-          details: "Mentor for Deeplearning.ai Coursera course: Practical Data Science"
+        - position: Mentor
+          company: Deeplearning.ai/Coursera
+          details: "Course: Practical Data Science"
           time: 01/2023 - present
 
 
