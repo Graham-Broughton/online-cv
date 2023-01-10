@@ -146,7 +146,7 @@ p {
       }
     }
   }
-  .place {
+  .position {
     font-size: 14px;
     margin-top: 0;
     margin-bottom: 5px;
@@ -157,6 +157,12 @@ p {
       &:last-child {
         margin-bottom: 0;
       }
+    }
+    .company {
+      color: rgba(256, 256, 256, 0.6);
+      font-weight: 500;
+      margin-bottom: 0px;
+      margin-top: 0;
     }
     .details {
       color: rgba(256, 256, 256, 0.6);
