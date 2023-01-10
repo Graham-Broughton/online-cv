@@ -112,8 +112,8 @@ projects:
       - title: Financial Trading Bot (in progress)
         link: "https://github.com/Graham-Broughton/finance"
         details: |
-            - end-to-end model from obtaining price as well as sentiment data to completing orders to the brokerage
-            - complete automation by running in GCP (not implemented yet)<br>
+            - End-to-end model from obtaining price as well as sentiment data to completing orders to the brokerage
+            - Complete automation by running in GCP (not implemented yet)<br>
             **Tools**: Google Cloud Products, Pandas, SQL, Threading, Selenium, Beautiful Soup, gym
 
 skills:
