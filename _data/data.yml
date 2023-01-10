@@ -31,8 +31,7 @@ sidebar:
     volunteering:
       title: Volunteering
       info:
-        - position: Mentor
-          company: Deeplearning.ai/Coursera
+        - position: "Mentor @ Deeplearning.ai/Coursera"
           details: "Course: Practical Data Science"
           time: 01/2023 - present
 
