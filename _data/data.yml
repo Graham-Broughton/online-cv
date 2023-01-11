@@ -109,20 +109,20 @@ projects:
         details: |
             - Achieved a validation accuracy of 0.3 on long tailed data containing ~1400 species across 80 000 images with a deployable image classifier
             - Reduced epoch training time from an hour (6 hours on CPU) to 3 minutes by leveraging TPUs and TFRecords to increase throughput <br>
-            **Tools**: Tensorflow/Keras, Pandas, Google Cloud Products, Amazon Web Services, Tensorboard, requests, flask, cv2, matplotlib, PostgreSQL
+            **Tools**: Tensorflow/Keras, Pandas, Google Cloud Products, AWS, Tensorboard, requests, flask, cv2, matplotlib, SQL
       - title: "Kaggle TPS: Imputation"
         link: "https://github.com/Graham-Broughton/Kaggle/tree/master/Imputation_062022"
         details: |
             - Reduced training time by ~2/3 by using various statistical analysis techniques to elucidate which features would benefit from machine learning
             - Condensed training time by ~1/3 and improved model to score in the top 13% by using 95% fewer nodes, skip connections and adding multiple heads<br>
-            **Tools**: Pandas, Keras, TensorFlow, Scikit-Learn, matplotlib, seaborn, missingno, NumPy, YAML, Pickle, Google Colab
+            **Tools**: Pandas, Keras, TensorFlow, scikt-learn, matplotlib, seaborn, missingno, numpy
       - title: Kaggle TPS Clustering
         link: "https://github.com/Graham-Broughton/Kaggle/tree/master/Clustering_072022"
         details: |
             - Achieved a top 15% score by implementing effective feature extraction following EDA and statistical modeling to obtain high confidence labels from an
               ensemble of clustering models for pseudo-semi supervised learning of an ensemble of classifiers
             - Improved the evaluation metric by 0.01 to score in the top 3% by designing a weighted soft voting ensemble of the best three submissions<br>
-            **Tools**: Pandas, Scikit-Learn, seaborn, matplotlib, Google Colab, NumPy, plotly, Sk-Lego, YAML, Pickle, Optuna, SciPy, XGBoost, LightGBM, CUDA
+            **Tools**: Pandas, scikt-learn, seaborn, matplotlib, numpy, plotly, Sk-Lego, Optuna, SciPy, XGBoost, LightGBM, CUDA
       - title: Ride Share User Data Analysis 
         link: "https://public.tableau.com/views/ridesharev2/Story2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"
         details: |
@@ -144,11 +144,14 @@ skills:
         tagline: "Python, SQL & NoSQL"
 
       - name: Data Analysis
-        tagline: "Natural Language Processing (NLP), Deep Learning, Sentiment Analysis, Time Series, Sequence Models - Transformers, RNN, LSTM, GRU, BERT"
+        tagline: "Natural Language Processing (NLP), Deep Learning, Sentiment Analysis, Time Series, Transformers"
+
+      - name: Machine Learning
+        tagline: "Linear Models: Ridge, Lasso, Least Squares, Logistic; Tree Based: Random Forests, XGBoost; Support Vectors; Unsupervised Learning"
 
       - name: Tools
-        tagline: "GCP, Azure, AWS, Git, Google Colab, Docker, Jupyter, PostgreSQL, MongoDB, TPUs"
+        tagline: "GCP, Azure, AWS, Git, Google Colab, Docker, Jupyter, PostgreSQL, MongoDB, TPUs, VSCode"
         
-      - name: Packages
-        tagline: "Tensorflow & Keras, Pandas, NumPy, Sci-Py, Scikit-Learn, NLTK, gensim"
+      - name: Libraries
+        tagline: "Tensorflow & Keras, Pandas, numpy, Sci-Py, scikt-learn"
 
