@@ -143,9 +143,6 @@ skills:
       - name: Languages
         tagline: "Python, SQL & NoSQL"
 
-      - name: Data Analysis
-        tagline: "Natural Language Processing (NLP), Deep Learning, Sentiment Analysis, Time Series, Transformers"
-
       - name: Machine Learning
         tagline: "Linear Models: Ridge, Lasso, Least Squares, Logistic; Tree Based: Random Forests, XGBoost; Support Vectors; Unsupervised Learning"
 
