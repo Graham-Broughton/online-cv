@@ -8,8 +8,7 @@
 
     {% for certification in certifications.info %}
     <div class="item">
-      <h5 class="certification">{{ certification.certification }}</h5>
-        <a href="{{ certification.link }}" target="_blank">{{ certification.certification }}</a>
+      <a href="{{ certification.link }}" target="_blank">{{ certification.certification }}</a>
       <div class="issued">{{ certification.issued }}</div>
     </div><!--//item-->
     {% endfor %}
