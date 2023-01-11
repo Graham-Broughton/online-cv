@@ -34,7 +34,27 @@ sidebar:
         - position: "Mentor @ Deeplearning.ai/Coursera"
           details: Practical Data Science
           time: 01/2023 - present
-
+    certifications:
+        title: Coursera Certifications
+        info:
+          - certification: "TensorFlow: Advanced Techniques Specialization"
+            link: "https://www.coursera.org/account/accomplishments/specialization/certificate/9RPG9G67ETRY"
+            issued: 09/2022
+          - certification: Deep Learning Specialization
+            link: "https://www.coursera.org/account/accomplishments/specialization/certificate/RFRA7EXWTGLA"
+            issued: 09/2022
+          - certification: Machine Learning Engineer Specialization
+            link: "https://www.coursera.org/account/accomplishments/specialization/certificate/HRPRKZD94Z8B"
+            issued: 10/2022
+          - certification: Practical Data Science
+            link: "https://www.coursera.org/account/accomplishments/specialization/certificate/83NJ24PKTB24"
+            issued: 10/2022
+          - certification: Google Data Analytics Specialization
+            link: "https://www.coursera.org/account/accomplishments/specialization/certificate/JAAZ2GSZMEXJ"
+            issued: 08/2022
+          - certification: MLOps Specialization
+            link: "https://www.coursera.org/account/accomplishments/specialization/certificate/5ZDKBE4Q4G5H"
+            issued: 09/2022
 
 career-profile:
     title: Career Profile
