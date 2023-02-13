@@ -62,7 +62,7 @@ career-profile:
         A freshly minted Data Scientist with experience in all the facets of Data Science focusing on neural networks, big data and a particular interest in optimization. 
         Previous experience in high-end restaurants instilled a relentless work ethic, a penetrating eye for detail, and perfectionism bordering on OCD. These attributes
         have led to him ranking in the top 3% to 15% out of ~1000 competitors in Kaggle competitions just a few short months after graduating from Lighthouse
-        Labs' Data Science Bootcamp. To help businesses maximize profits, he’s been learning how to reduce runtime via multiprocessing/threading, asynchronous operations, CPython and TPU processing. 
+        Labs' Data Science Bootcamp. To help businesses maximize profits, he’s been learning how to reduce runtime via multiprocessing/threading, asynchronous operations, Cython and TPU processing. 
         Paired with data handling best practices, including SQL operations, and alternatives to Pandas (eg. Polars) he has sped up some of his programs by 120 fold. 
         He is excited for this opportunity to apply his experience in a business setting as a Junior data Scientist.
 
@@ -109,32 +109,32 @@ projects:
         details: |
             - Achieved a validation accuracy of 0.3 on long tailed data containing ~1400 species across 80 000 images with a deployable image classifier
             - Reduced epoch training time from an hour (6 hours on CPU) to 3 minutes by leveraging TPUs and TFRecords to increase throughput <br>
-            **Tools**: Tensorflow/Keras, Pandas, Google Cloud Products, AWS, Tensorboard, requests, flask, cv2, matplotlib, SQL
+            **Tools**: Tensorflow/Keras, Google Cloud Products, AWS, Tensorboard, requests, flask, cv2, SQL
       - title: "Kaggle TPS: Imputation"
         link: "https://github.com/Graham-Broughton/Kaggle/tree/master/Imputation_062022"
         details: |
             - Reduced training time by ~2/3 by using various statistical analysis techniques to elucidate which features would benefit from machine learning
             - Condensed training time by ~1/3 and improved model to score in the top 13% by using 95% fewer nodes, skip connections and adding multiple heads<br>
-            **Tools**: Pandas, Keras, TensorFlow, scikt-learn, matplotlib, seaborn, missingno, numpy
+            **Tools**: Keras, TensorFlow, scikt-learn, seaborn, missingno
       - title: Kaggle TPS Clustering
         link: "https://github.com/Graham-Broughton/Kaggle/tree/master/Clustering_072022"
         details: |
             - Achieved a top 15% score by implementing effective feature extraction following EDA and statistical modeling to obtain high confidence labels from an
               ensemble of clustering models for pseudo-semi supervised learning of an ensemble of classifiers
             - Improved the evaluation metric by 0.01 to score in the top 3% by designing a weighted soft voting ensemble of the best three submissions<br>
-            **Tools**: Pandas, scikt-learn, seaborn, matplotlib, numpy, plotly, Sk-Lego, Optuna, SciPy, XGBoost, LightGBM, CUDA
+            **Tools**: Sk-learn + Lego, Seaborn, Plotly, Optuna, SciPy, XGBoost, LightGBM
       - title: Ride Share User Data Analysis 
         link: "https://public.tableau.com/views/ridesharev2/Story2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"
         details: |
             - Analyzed key differences between membership groups pertaining to business requirements through extensive data visualization
             - Formed business decisions by translating the data-driven insights from the analysis<br>
-            **Tools**: Tableau, Google Cloud Products, Google Colab, Amazon Web Service CLI, Pandas, SQL
-      - title: Financial Trading Bot (in progress)
-        link: "https://github.com/Graham-Broughton/finance"
-        details: |
-            - End-to-end model from obtaining price as well as sentiment data to completing orders to the brokerage
-            - Complete automation by running in GCP (not implemented yet)<br>
-            **Tools**: Google Cloud Products, Pandas, SQL, Threading, Selenium, Beautiful Soup, gym
+            **Tools**: Tableau, Google Cloud Products, Google Colab, Amazon Web Service CLI, SQL
+#       - title: Financial Trading Bot (in progress)
+#         link: "https://github.com/Graham-Broughton/finance"
+#         details: |
+#             - End-to-end model from obtaining price as well as sentiment data to completing orders to the brokerage
+#             - Complete automation by running in GCP (not implemented yet)<br>
+#             **Tools**: Google Cloud Products, Pandas, SQL, Threading, Selenium, Beautiful Soup, gym
 
 skills:
     title: Skills
@@ -144,11 +144,11 @@ skills:
         tagline: "Python, SQL & NoSQL"
 
       - name: Machine Learning
-        tagline: "Linear Models: Ridge, Lasso, Least Squares, Logistic; Tree Based: Random Forests, XGBoost; Support Vectors; Unsupervised Learning"
+        tagline: "Classical Models: Linear Regression, Tree Models, Ensembles, PCA, Clustering, etc. NN's: Autoencoders, Transformers, CNN, RNN, etc."
 
       - name: Tools
-        tagline: "GCP, Azure, AWS, Git, Google Colab, Docker, Jupyter, PostgreSQL, MongoDB, TPUs, VSCode"
+        tagline: "GCP, Azure, AWS, Docker, Tableau, TPUs"
         
-      - name: Libraries
-        tagline: "Tensorflow & Keras, Pandas, numpy, Sci-Py, scikt-learn"
+#       - name: Libraries
+#         tagline: "Tensorflow & Keras, Pandas, numpy, Sci-Py, scikt-learn"
 
